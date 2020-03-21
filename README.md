@@ -34,7 +34,9 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 ### Files used
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
 ### Credits
