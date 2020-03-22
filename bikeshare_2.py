@@ -1,4 +1,6 @@
-Bikeshare Udacity Project
+# Ashleigh Claiborne
+# March 22, 2020
+# Udacity Project
 
 import time
 import pandas as pd
