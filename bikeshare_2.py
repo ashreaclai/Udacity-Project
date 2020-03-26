@@ -1,6 +1,6 @@
 # Ashleigh Claiborne
 # March 22, 2020
-# Udacity Project
+# Udacity GitHub Project
 
 import time
 import pandas as pd
