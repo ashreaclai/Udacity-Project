@@ -25,9 +25,7 @@ def get_filters():
 
     # get user input for month (all, january, february, ... , june)
 
-
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
 
     print('-'*40)
     return city, month, day
@@ -44,7 +42,6 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
 
     return df
 
@@ -97,25 +94,6 @@ def trip_duration_stats(df):
 
 
     # display mean travel time
-
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
-
-
-def user_stats(df):
-    """Displays statistics on bikeshare users."""
-
-    print('\nCalculating User Stats...\n')
-    start_time = time.time()
-
-    # Display counts of user types
-
-
-    # Display counts of gender
-
-
-    # Display earliest, most recent, and most common year of birth
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
