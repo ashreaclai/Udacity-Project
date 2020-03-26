@@ -5,13 +5,13 @@ March 10th 2020
 Post Your Work on GitHub
 
 ### Project Tasks
-Set up Repository
+- Set up Repository
 
-Imrpove Documentation
+- Imrpove Documentation
 
-Refactor Code
+- Refactor Code
 
-Merge Branches
+- Merge Branches
 
 ### Description
 Bike Share Data
@@ -38,21 +38,25 @@ End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
 
 ### Statistics Computed
+
 #1 Popular times of travel (i.e., occurs most often in the start time)
 most common month
 most common day of week
 most common hour of day
 
 #2 Popular stations and trip
+
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
 
 #3 Trip duration
+
 total travel time
 average travel time
 
 #4 User info
+
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
